@@ -27,3 +27,17 @@ footer{
     justify-content: space-around;
     padding: 10px;
 }
+
+#content-1 a:hover {
+    color: rgb(250, 255, 0);
+    font-weight: 900;
+}
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: 900;
+    font-style: italic;
+    color: rgb(255, 0, 250);
+}
